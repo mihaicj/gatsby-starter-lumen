@@ -24,7 +24,7 @@ const onRenderBody = ({ setHeadComponents, setPostBodyComponents }) => {
       type="text/javascript"
       dangerouslySetInnerHTML={{
         __html: `
-      (function(v,i,s,a){if(!v._visaSettings){v._visaSettings={};}v._visaSettings["dfb4d0e3-ee08-11eb-830a-0242ac130018"]={v:"0.3",s:"dfb4d0e3-ee08-11eb-830a-0242ac130018",a:"1"};_v=i.getElementsByTagName("body")[0];_a=_v;_i=i.createElement("script");_s=_i;_s.defer="defer";_s.src=s+a+v._visaSettings["dfb4d0e3-ee08-11eb-830a-0242ac130018"].v;_a.appendChild(_s);})(window,document,"//dev-worker.va-endpoint.com/main",".js?s=dfb4d0e3-ee08-11eb-830a-0242ac130018&v=")
+        (function(v,i,s,a){if(!v._visaSettings){v._visaSettings={};}v._visaSettings["06d99a32-ee11-11eb-830a-0242ac130018"]={v:"0.3",s:"06d99a32-ee11-11eb-830a-0242ac130018",a:"1"};_v=i.getElementsByTagName("body")[0];_a=_v;_i=i.createElement("script");_s=_i;_s.defer="defer";_s.src=s+a+v._visaSettings["06d99a32-ee11-11eb-830a-0242ac130018"].v;_a.appendChild(_s);})(window,document,"//dev-worker.va-endpoint.com/main",".js?s=06d99a32-ee11-11eb-830a-0242ac130018&v=")
       `
       }}
     />
